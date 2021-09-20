@@ -1,2 +1,6 @@
 # hello-world
-first project
+
+Hello!
+
+My name is Sam
+i like cats
